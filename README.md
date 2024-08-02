@@ -1,0 +1,1 @@
+## Published findings in the International Journal of Advanced Scientific Research and Engineering Trends, demonstrating model's 92% accuracy and contributing insights to advanced fraud detection methodologies
